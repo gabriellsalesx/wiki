@@ -1,5 +1,5 @@
 ---
-{"title":"As Técnicas PROIBIDAS Que Estão Transformando Leigos em Máquinas de Produtividade","Criado":"2025-02-07","dg-publish":true,"dg-home":true,"tags":["home","gardenEntry"],"permalink":"/home/","dgPassFrontmatter":true}
+{"title":"Gabriell Sales - Notas","Criado":"2025-02-07","dg-publish":true,"dg-home":true,"tags":["gardenEntry"],"permalink":"/home/","dgPassFrontmatter":true}
 ---
 
 
