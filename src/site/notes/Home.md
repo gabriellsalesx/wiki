@@ -1,9 +1,9 @@
 ---
-{"title":"Gabriell Sales - Notas","Criado":"2025-02-07","dg-publish":true,"dg-home":true,"tags":["gardenEntry"],"permalink":"/home/","dgPassFrontmatter":true}
+{"title":"Home","Criado":"2025-02-07","dg-publish":true,"dg-home":true,"tags":["gardenEntry"],"permalink":"/home/","dgPassFrontmatter":true}
 ---
 
 
-<div align="center"> <h3>🏆 Você Acaba de Acessar:</h3> <h1>As Técnicas PROIBIDAS Que Estão Transformando Leigos em Máquinas de Produtividade</h1>  <h2>🚀 Vamos Começar! → Role para Baixo</h2> </div>
+<div align="center"> <h3>🏆 Você Acaba de Acessar:</h3> <h1>Notas Exclusivas</h1>  <h2>🚀 Vamos Começar! → Role para Baixo</h2> </div>
 
 <div align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWtsY3U5bnZnbjF3cnJqa3JiM3NsYWtuZWw2NnJjMjRkYjU5MWpjciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT5LMWNOjGqJzUfyve/giphy.gif" width="300">
