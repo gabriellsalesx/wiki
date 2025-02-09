@@ -3,14 +3,14 @@
 ---
 
 
-<div align="center"> <h3>🕵️‍♂️Notas Proibidas</h3> <h1>Notas Exclusivas</h1>  <h2>🚀 Vamos Começar! → Role para Baixo</h2> </div>
+<div align="center"> <h3>🕵️‍♂️Notas Proibidas</h3> <h2>🚀 Vamos Começar! → Role para Baixo</h2> </div>
 
 <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWM3eTN0N3ZyMGdlNnd6aDUxZzBmZXZ1dHVhdzQ3ZWMwNmtjazR2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o85xJSfieKsICkquk/giphy.gif" width="300">
 </div>
 
 > [!WARNING] **AVISO DE SEGURANÇA:**
-> *Estas notas são fragmentos de uma inteligência coletiva. Acesse apenas se estiver preparado para ver*
+> *Estas notas são fragmentos de uma inteligência coletiva. Acesse apenas se estiver preparado para ver.*
 > >[!TIP] Aqui está o que os 'gurus' apagam assim que descobrem que você está perto de superá-los.
 
 ---
