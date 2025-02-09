@@ -1,5 +1,5 @@
 ---
-{"title":"Repositório Instaladores","Criado":"2025-02-09","dg-publish":true,"permalink":"/instalador/repositorio/","dgPassFrontmatter":true}
+{"title":"Repositório","Criado":"2025-02-09","dg-publish":true,"permalink":"/instalador/repositorio/","dgPassFrontmatter":true}
 ---
 
 
