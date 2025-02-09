@@ -1,5 +1,5 @@
 ---
-{"title":"Repositório Notas","Criado":"2025-02-09","dg-publish":true,"permalink":"/notas/repositorio/","dgPassFrontmatter":true}
+{"title":"Repositório","Criado":"2025-02-09","dg-publish":true,"permalink":"/notas/repositorio/","dgPassFrontmatter":true}
 ---
 
 
