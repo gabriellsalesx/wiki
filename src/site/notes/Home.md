@@ -15,13 +15,13 @@
 ---
 ## 🔥 **O Que Você Vai Encontrar Aqui:**
 
-#### **[[Notas/Repositório Notas\|NOTAS EXCLUSIVAS:]]**
+#### **[[Notas/Repositório\|NOTAS EXCLUSIVAS:]]**
 
 - Domine ferramentas essenciais para o mercado digital com passo a passo detalhado.
 - Descubra os bastidores e como você pode se beneficiar disso.
 - Fique por dentro das tendências antes que elas se tornem mainstream.
 
-#### **[[Instalador/Repositório Instaladores\|INSTALADOR]]** 
+#### **[[Instalador/Repositório\|INSTALADOR]]** 
 
 - Guia completo para instalar programas indispensáveis para o mercado digital.
 - Dicas para otimizar suas configurações e melhorar seu desempenho.
