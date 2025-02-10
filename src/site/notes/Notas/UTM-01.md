@@ -13,14 +13,13 @@
 </div>
 
 ---
-
 ## 📋 Sumário 
+
 1. [[Notas/UTM-01#🌟 O Que São Parâmetros UTM?\|🌟 O Que São Parâmetros UTM?]]
 2. [[Notas/UTM-01#🔍 Por Que Usar UTM Parameters?\|🔍 Por Que Usar UTM Parameters?]]
 3. [[Notas/UTM-01#⚙️ Estrutura de um Link UTM\|⚙️ Estrutura de um Link UTM]]
 4. [[Notas/UTM-01#💡 Criando Links UTM na Prática\|💡 Criando Links UTM na Prática]]
 5. [[Notas/UTM-01#📈 Exemplo Prático Rastreando uma Campanha no Google Analytics\|📈 Exemplo Prático Rastreando uma Campanha no Google Analytics]]
-6. [[Notas/UTM-01#🎉 Parabéns! Você Concluiu UTMs\|🎉 Parabéns! Você Concluiu UTMs]]
 
 --- 
 ## 🌟 O Que São Parâmetros UTM? 
@@ -72,12 +71,12 @@ https://seudominio.com/?utm_source=facebook&amp;utm_medium=social&amp;utm_campai
 ---
 ## 📈  Exemplo Prático: Rastreando uma Campanha no Google Analytics
 
-4. Configure seu link UTM e compartilhe-o em diferentes canais.  
-5. No Google Analytics, vá para **Aquisição > Todas as Campanhas > Fontes/Mídias**.  
-6. Visualize os dados:  
+1. Configure seu link UTM e compartilhe-o em diferentes canais.  
+2. No Google Analytics, vá para **Aquisição > Todas as Campanhas > Fontes/Mídias**.  
+3. Visualize os dados:  
 - Quantos cliques vieram do Facebook?  
 - Qual campanha teve maior taxa de conversão?  
-7. Use essas informações para ajustar suas estratégias e investir no que funciona!  
+4. Use essas informações para ajustar suas estratégias e investir no que funciona!  
 
 ---
 ## 🎉 Parabéns! Você Concluiu UTMs
