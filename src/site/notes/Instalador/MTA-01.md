@@ -38,6 +38,7 @@
 ---
 
 ## 📋 Pré-requisitos
+
 1. **Servidor Debian 12** (ou versão recente).
 2. Acesso como **root** ou usuário com `sudo`.
 3. Conexão à internet.
@@ -103,12 +104,14 @@ sudo rm matomo.zip
 sudo mv matomo analytics
 > ```
 
+
 > [!code]- Clique para Expandir + Copiar
 > ```bash
 > # 4.2 Configure Permissões
 > sudo chown -R www-data:www-data /var/www/html/analytics
 sudo chmod -R 755 /var/www/html/analytics
 > ```
+
 
 ## 🔒 Passo 5: SSL com Let's Encrypt
 
