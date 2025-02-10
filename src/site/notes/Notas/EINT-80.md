@@ -17,11 +17,12 @@
 
 ---
 ## 📋 Sumário
+
 1. [[Notas/EINT-80#🌟 Por Que Erros Chamam Atenção?\|🌟 Por Que Erros Chamam Atenção?]]
-2. [[Notas/EINT-80#🔍 Hack 1 Use Gírias ou Palavras Diferentes\|🔍 Hack #1: Use Gírias ou Palavras Diferentes]]
-3. [[Notas/EINT-80#⚙️ Hack 2 Erros de Ortografia Estratégicos\|⚙️ Hack #2: Erros de Ortografia Estratégicos]]
-4. [[Notas/EINT-80#💡 Hack 3 Provocar Debates com Declarações Polêmicas\|💡 Hack #3: Provocar Debates com Declarações Polêmicas]]
-5. [[Notas/EINT-80#📈 Hack 4 Monitore os Resultados e Ajuste a Estratégia\|📈 Hack #4: Monitore os Resultados e Ajuste a Estratégia]]
+2. [[Notas/EINT-80#🔍 Hack 1 Use Gírias ou Palavras Diferentes\|🔍 Hack 1 Use Gírias ou Palavras Diferentes]]
+3. [[Notas/EINT-80#⚙️ Hack 2 Erros de Ortografia Estratégicos\|⚙️ Hack 2 Erros de Ortografia Estratégicos]]
+4. [[Notas/EINT-80#💡 Hack 3 Provocar Debates com Declarações Polêmicas\|💡 Hack 3 Provocar Debates com Declarações Polêmicas]]
+5. [[Notas/EINT-80#📈 Hack 4 Monitore os Resultados e Ajuste a Estratégia\|📈 Hack 4 Monitore os Resultados e Ajuste a Estratégia]]
 
 ---
 ## 🌟 Por Que Erros Chamam Atenção?
@@ -29,7 +30,7 @@
 O cérebro humano é programado para identificar padrões e anomalias. Quando algo está "fora do normal", como um erro de ortografia ou uma palavra inusitada, ele chama mais atenção. No Instagram, isso pode ser usado a seu favor para aumentar o tempo de permanência na sua publicação e gerar interações.  
 
 ---
-## 🔍 Hack #1: Use Gírias ou Palavras Diferentes
+## 🔍 Hack 1: Use Gírias ou Palavras Diferentes
 
 Gírias e expressões regionais são ótimas maneiras de conectar-se com seu público e gerar curiosidade.  
 
@@ -41,7 +42,7 @@ Gírias e expressões regionais são ótimas maneiras de conectar-se com seu pú
   - Outros podem perguntar o que significa, gerando ainda mais engajamento.  
 
 ---
-## ⚙️ Hack #2: Erros de Ortografia Estratégicos
+## ⚙️ Hack 2: Erros de Ortografia Estratégicos
 
 Escrever propositalmente errado pode parecer arriscado, mas é uma técnica poderosa para gerar reações.  
 
@@ -56,7 +57,7 @@ Escrever propositalmente errado pode parecer arriscado, mas é uma técnica pode
 > Use essa estratégia apenas em conteúdos casuais ou humorísticos. Evite em posts profissionais ou corporativos.  
 
 ---
-## 💡 Hack #3: Provocar Debates com Declarações Polêmicas
+## 💡 Hack 3: Provocar Debates com Declarações Polêmicas
 
 Declarações polêmicas ou opiniões fortes podem dividir opiniões, mas também geram muita interação.  
 
@@ -68,7 +69,7 @@ Declarações polêmicas ou opiniões fortes podem dividir opiniões, mas també
   - Quanto mais longos forem os comentários, melhor para o algoritmo do Instagram. 
 
 ---
-## 📈 Hack #4: Monitore os Resultados e Ajuste a Estratégia
+## 📈 Hack 4: Monitore os Resultados e Ajuste a Estratégia
 
 Após implementar essas técnicas, monitore os resultados para entender o impacto.  
 
