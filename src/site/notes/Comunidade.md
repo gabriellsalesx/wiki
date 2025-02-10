@@ -1,5 +1,5 @@
 ---
-{"title":null,"Criado":"2025-02-09","dg-publish":true,"dg-home":null,"permalink":"/comunidade/","dgPassFrontmatter":true}
+{"title":null,"Criado":"2025-02-09","dg-publish":true,"dg-home":null,"dg-pinned":true,"permalink":"/comunidade/","pinned":true,"dgPassFrontmatter":true}
 ---
 
 <div align="center"> <h3>🔥 O MOMENTO DA DECISÃO:</h3> <h1>Você Vai Continuar Sendo Um Espectador...</h1><p>Ou Entrar Para a Comunidade?</p></div>
@@ -57,8 +57,7 @@ Requisitos para ingresso:
 ---
 
 ## 🎯 SEU PASSO FINAL:
-
-👉 [💀 **CLIQUE AQUI PARA ATIVAR SEU PERFIL DE GUERREIRO DIGITAL**](comunidade.gabriellsales.com.br)
+<div style="display: flex; justify-content: center; cursor: pointer;"> <a href="https://comunidade.gabriellsales.com.br" target="_blank"> <button style=" font-size: 28px; padding: 10px; height: fit-content; margin-top: 50px; background: var(--text-accent); font-weight: 600; color: var(--text-on-accent); "> Participar da Comunidade </button> </a> </div>
 
 <center>Domine a tecnologia, trabalhe com inteligência, viva plenamente...  
 ...ou assista sua relevância digital definhar frame a frame.</center>
