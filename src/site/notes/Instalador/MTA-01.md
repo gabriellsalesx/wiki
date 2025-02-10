@@ -30,7 +30,7 @@
 
 ---
 
-# 📊 Instalação do Matomo no Debian: Guia Passo a Passo
+## 📊 Instalação do Matomo no Debian: Guia Passo a Passo
 
 > **Para quem é este guia?**  
 > Iniciantes, administradores de sistemas ou curiosos que querem instalar o Matomo (alternativa ao Google Analytics) em um servidor Debian **do zero**, mesmo sem experiência prévia!
@@ -44,7 +44,7 @@
 
 ---
 
-##  **🛠️ Passo 1: Configuração Inicial do Servidor**
+## 🛠️ Passo 1: Configuração Inicial do Servidor
 
 > [!code]- Clique para Expandir + Copiar
 > ```bash
@@ -200,13 +200,14 @@ sudo rm -rf /var/www/html/analytics/tmp/*
 > ```
 
 Adicione:
+
 > [!code]- Clique para Expandir + Copiar
 > ```ini
 [General]
 force_ssl = 1
 > ```
 
-## 🎉 **Parabéns! Você Concluiu a Instalação do Matomo Agora!**
+## 🎉 Parabéns! Você Concluiu a Instalação do Matomo Agora!
 
 <div align="center"> <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="300"> </div>
 
