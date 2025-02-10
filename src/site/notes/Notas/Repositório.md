@@ -16,9 +16,10 @@
 ---
 ## 🌐 MAPA DA MINA DO CONHECIMENTO
 
-| CÓDIGO         | DESCRIÇÃO                                                                                       | LINK                              | DIFICULDADE     |
-| -------------- | ----------------------------------------------------------------------------------------------- | --------------------------------- | --------------- |
-| `CW-01`        | **Copys para WhatsApp:** Transforme suas mensagens de vendas com técnicas testadas e aprovadas! | [[Notas/CW-01\|🔓Acessar]]              | 🌶️             |
+| CÓDIGO   | DESCRIÇÃO                                                                                       | LINK                  | DIFICULDADE |
+| -------- | ----------------------------------------------------------------------------------------------- | --------------------- | ----------- |
+| `CW-01`  | **Copys para WhatsApp:** Transforme suas mensagens de vendas com técnicas testadas e aprovadas! | [[Notas/CW-01\|🔓Acessar]]  | 🌶️         |
+| `UTM-01` | **UTMs:** O Que São e Como Utilizar                                                             | [[Notas/UTM-01\|🔓Acessar]] | 🌶️🌶️      |
 
 ---
 ## 📌 COMO NAVEGAR NESTE ABISMO:  
