@@ -17,7 +17,7 @@
 - **Medo** de ser engolido por uma IA/colega/concorrente mais preparado
 
 ---
-## 👁️‍🗨️ A VERDADE QUE NINGUÉM CONTA:  
+## 👁️ A VERDADE QUE NINGUÉM CONTA:  
 
 > **Comunidades comuns** criam seguidores.  
 > **Nossa Comunidade** forja **arquitetos do futuro**.
