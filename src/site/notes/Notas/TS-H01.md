@@ -19,10 +19,10 @@
 ## 📋 Sumário
 
 1. [[Notas/TS-H01#🌟 Introdução às Técnicas Hacker\|🌟 Introdução às Técnicas Hacker]]
-2. [[Notas/TS-H01#🔍 Hack 1 SEO Reverso para Espionar Competidores\|🔍 Hack #1: SEO Reverso para Espionar Competidores]]
-3. [[Notas/TS-H01#⚙️ Hack 2 Automação Encoberta com Scripts Personalizados\|⚙️ Hack #2: Automação Encoberta com Scripts Personalizados]]
-4. [[Notas/TS-H01#💡Hack 3 Explorando Micro-Influenciadores Anônimos\|💡 Hack #3: Explorando Micro-Influenciadores Anônimos]]
-5. [[Notas/TS-H01#📈 Hack 4 Usando IA para Prever Tendências do Mercado\|📈 Hack #4: Usando IA para Prever Tendências do Mercado]]
+2. [[Notas/TS-H01#🔍 Hack 1 SEO Reverso para Espionar Competidores\|🔍 Hack 1 SEO Reverso para Espionar Competidores]]
+3. [[Notas/TS-H01#⚙️ Hack 2 Automação Encoberta com Scripts Personalizados\|⚙️ Hack 2 Automação Encoberta com Scripts Personalizados]]
+4. [[Notas/TS-H01#💡Hack 3 Explorando Micro-Influenciadores Anônimos\|💡Hack 3 Explorando Micro-Influenciadores Anônimos]]
+5. [[Notas/TS-H01#📈 Hack 4 Usando IA para Prever Tendências do Mercado\|📈 Hack 4 Usando IA para Prever Tendências do Mercado]]
 
 ---
 ## 🌟 Introdução às Técnicas Hacker
@@ -30,7 +30,7 @@
 No mundo digital, as estratégias convencionais muitas vezes não são suficientes para se destacar. Aqui, vamos explorar táticas inovadoras e pouco conhecidas que podem te colocar à frente da concorrência. Prepare-se para pensar fora da caixa!  
 
 ---
-## 🔍 Hack #1: SEO Reverso para Espionar Competidores
+## 🔍 Hack 1: SEO Reverso para Espionar Competidores
 
 Você sabia que pode usar ferramentas como **Ahrefs**, **SEMrush** ou até mesmo o **Wayback Machine** para descobrir as estratégias de SEO dos seus concorrentes?  
 
@@ -48,7 +48,7 @@ site:competidor.com.br intitle:"palavra-chave"
 ```
 
 ---
-## ⚙️ Hack #2: Automação Encoberta com Scripts Personalizados
+## ⚙️ Hack 2: Automação Encoberta com Scripts Personalizados
 
 Automação é poderosa, mas quando personalizada, ela se torna uma arma secreta. 
 
@@ -75,7 +75,7 @@ Por exemplo:
 > Este script permite que você responda rapidamente a interações sem precisar monitorar manualmente.
 
 ---
-## 💡Hack #3: Explorando Micro-Influenciadores Anônimos
+## 💡Hack 3: Explorando Micro-Influenciadores Anônimos
 
 Grande parte das marcas foca em influenciadores com milhões de seguidores, mas os micro-influenciadores (1k-10k seguidores) têm engajamento muito maior.
 
@@ -88,7 +88,7 @@ Grande parte das marcas foca em influenciadores com milhões de seguidores, mas 
 > Procure por hashtags relacionadas ao seu nicho e identifique perfis que ainda não foram "descobertos".
 
 ---
-## 📈 Hack #4: Usando IA para Prever Tendências do Mercado
+## 📈 Hack 4: Usando IA para Prever Tendências do Mercado
 
 Ferramentas de IA como **Google Trends** e **Exploding Topics** podem prever tendências antes que elas se tornem mainstream.
 
