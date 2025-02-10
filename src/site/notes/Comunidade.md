@@ -7,6 +7,7 @@
 <div align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm54Y2NtMGFtZTloYmt2NTY2djdkYzg4MmQyZnRuZm12ZWxscWxkdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g9582DNuQppxC/giphy.gif" width="300">
 </div>
+
 ---
 ## 😤 SENTE ISSO?
 
