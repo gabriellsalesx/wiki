@@ -1,5 +1,5 @@
 ---
-{"title":"Comunidade","Criado":"2025-02-09","dg-publish":true,"dg-home":null,"permalink":"/comunidade/","dgPassFrontmatter":true}
+{"title":null,"Criado":"2025-02-09","dg-publish":true,"dg-home":null,"permalink":"/comunidade/","dgPassFrontmatter":true}
 ---
 
 <div align="center"> <h3>🔥 O MOMENTO DA DECISÃO:</h3> <h1>Você Vai Continuar Sendo Um Espectador...</h1><p>Ou Entrar Para a Comunidade?</p></div>
