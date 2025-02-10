@@ -16,16 +16,9 @@
 ---
 ## 🌐 MAPA DA MINA DO CONHECIMENTO
 
-| CÓDIGO         | DESCRIÇÃO                                                                            | LINK                               | DIFICULDADE     |
-| -------------- | ------------------------------------------------------------------------------------ | ---------------------------------- | --------------- |
-| `PO-9X`        | **Método Pomodoro Sombrio (v3.4):** Ciclos de 57 minutos com doping neural           | [🔓 Acessar](javascript:void(0))   | 🌶️🌶️          |
-| `SCP-707`      | **Scripts de Persuasão Cibernética:** Diálogos que hackeiam a mente alvo             | [💀 Liberar](javascript:void(0))   | 🌶️🌶️🌶️🌶️    |
-| `VAULT-TECH`   | **Mapa Mental Para Dominar Tecnologias em 72h:** O algoritmo proscrito               | [⚡ Detonar](javascript:void(0))    | 🌶️🌶️🌶️       |
-| `NEURO-666`    | **Protocolo de Neuro-Hacking:** Reconfigurar seu cérebro para produtividade tóxica   | [🧠 Invadir](javascript:void(0))   | 🌶️🌶️🌶️🌶️🌶️ |
-| `DARK-UX`      | **Padrões de UX Reversos:** Interfaces que escravizam usuários... para seu benefício | [🎭 Ativar](javascript:void(0))    | 🌶️🌶️🌶️       |
-| `CRYPTO-SPEC`  | **Especulação de Dados Não-Etéricos:** O que fazem com suas métricas                 | [🔍 Espionar](javascript:void(0))  | 🌶️🌶️          |
-| `METHOD-VAULT` | **Decodificador de Dependência Tecnológica:** Quebre cadeias de vício digital        | [💥 Explodir](javascript:void(0))  | 🌶️🌶️🌶️🌶️    |
-| `BOT-FARM`     | **Fazenda de Automações Fantasmas:** Micro-IAs trabalhando 25/8                      | [🤖 Implantar](javascript:void(0)) | 🌶️🌶️🌶️🌶️    |
+| CÓDIGO         | DESCRIÇÃO                                                                                       | LINK                              | DIFICULDADE     |
+| -------------- | ----------------------------------------------------------------------------------------------- | --------------------------------- | --------------- |
+| `CW-01`        | **Copys para WhatsApp:** Transforme suas mensagens de vendas com técnicas testadas e aprovadas! | [[Notas/CW-01\|🔓Acessar]]              | 🌶️             |
 
 ---
 ## 📌 COMO NAVEGAR NESTE ABISMO:  
