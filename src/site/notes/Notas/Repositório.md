@@ -16,10 +16,13 @@
 ---
 ## 🌐 MAPA DA MINA DO CONHECIMENTO
 
-| CÓDIGO   | DESCRIÇÃO                                                                                       | LINK                  | DIFICULDADE |
-| -------- | ----------------------------------------------------------------------------------------------- | --------------------- | ----------- |
-| `CW-01`  | **Copys para WhatsApp:** Transforme suas mensagens de vendas com técnicas testadas e aprovadas! | [[Notas/CW-01\|🔓Acessar]]  | 🌶️         |
-| `UTM-01` | **UTMs:** O Que São e Como Utilizar                                                             | [[Notas/UTM-01\|🔓Acessar]] | 🌶️🌶️      |
+| CÓDIGO    | DESCRIÇÃO                                                                                       | LINK                   | DIFICULDADE  |
+| --------- | ----------------------------------------------------------------------------------------------- | ---------------------- | ------------ |
+| `CW-01`   | **Copys para WhatsApp:** Transforme suas mensagens de vendas com técnicas testadas e aprovadas! | [[Notas/CW-01\|🔓Acessar]]   | 🌶️          |
+| `UTM-01`  | **UTMs:** O Que São e Como Utilizar                                                             | [[Notas/UTM-01\|🔓Acessar]]  | 🌶️🌶️       |
+| `FVE-04`  | **Funil de Vendas Eficaz:** Converta Leads em Clientes Fieis                                    | [[Notas/FVE-04\|🔓Acessar]]  | 🌶️🌶️       |
+| `EINT-80` | **Erros Intencionais no Texto:** Aumentar o engajamento e posicionar seu perfil                 | [[Notas/EINT-80\|🔓Acessar]] | 🌶️          |
+| `TS-H01`  | **Táticas Secretas:** Maximizar resultados com esforço mínimo                                   | [[Notas/TS-H01\|🔓Acessar]]  | 🌶️🌶️🌶️🌶️ |
 
 ---
 ## 📌 COMO NAVEGAR NESTE ABISMO:  
