@@ -1,5 +1,5 @@
 ---
-{"title":"Home","Criado":"2025-02-07","dg-publish":true,"dg-home":true,"tags":["gardenEntry"],"permalink":"/home/","dgPassFrontmatter":true}
+{"title":"Home","Criado":"2025-02-07","dg-publish":true,"dg-home":true,"dg-pinned":true,"permalink":"/home/","pinned":true,"tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 
