@@ -83,7 +83,7 @@ Após implementar essas técnicas, monitore os resultados para entender o impact
 > Experimente diferentes combinações de erros e gírias para ver qual ressoa mais com seu público. 
 
 ---
-## 🎉 Parabéns! Você Concluiu Erros Intencionais no Texto
+## 🎉 Parabéns! Você Concluiu ==EINT-80==
 
 <div align="center"> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXhmZ2ZyYmEybnVhbDY2Z3k4MGRrcXkxYW10aTVxZzZteXk0cjk0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/D2hncA3u88gmeCFeoh/giphy.gif" width="300"> </div>
 
