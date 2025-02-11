@@ -100,7 +100,7 @@ Ferramentas de IA como **Google Trends** e **Exploding Topics** podem prever ten
 > Combine isso com análise de sentimentos usando APIs como **IBM Watson** para entender o humor do público sobre um tema específico.
 
 ---
-## 🎉 Parabéns! Você Concluiu ==TS-H01=
+## 🎉 Parabéns! Você Concluiu ==TS-H01==
 
 <div align="center"> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXhmZ2ZyYmEybnVhbDY2Z3k4MGRrcXkxYW10aTVxZzZteXk0cjk0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/D2hncA3u88gmeCFeoh/giphy.gif" width="300"> </div>
 
