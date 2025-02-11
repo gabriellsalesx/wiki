@@ -47,120 +47,108 @@
 
 ## 🛠️ Passo 1: Configuração Inicial do Servidor
 
-> [!code]- Clique para Expandir + Copiar
-> ```bash
-> # 1.1 Atualize o Sistema
-> apt update
-> ```
+```bash
+# 1.1 Atualize o Sistema
+apt update
+```
 
-> [!code]- Clique para Expandir + Copiar
-> ```bash
-> # 1.2 Instale o Sudo
-> apt install sudo
-> ```
+```bash
+# 1.2 Instale o Sudo
+apt install sudo
+```
 
 ## 🌐 Passo 2: Instale o Apache, PHP e MySQL
 
-> [!code]- Clique para Expandir + Copiar
-> ```bash
-> # 2.1 Instale os Pacotes
-> sudo apt install -y apache2 mariadb-server php php-cli php-curl php-gd php-mysql php-xml php-mbstring php-intl php-zip unzip wget
-> ```
 
-> [!code]- Clique para Expandir + Copiar
-> ```bash
-> # 2.2 Configure o MySQL/MariaDB
-> sudo mysql_secure_installation
-> ```
+```bash
+# 2.1 Instale os Pacotes
+sudo apt install -y apache2 mariadb-server php php-cli php-curl php-gd php-mysql php-xml php-mbstring php-intl php-zip unzip wget
+```
+
+```bash
+# 2.2 Configure o MySQL/MariaDB
+sudo mysql_secure_installation
+```
+
 > *Siga as perguntas (defina senha para o root do MySQL, remova usuários anônimos, etc.).*
 
 ## 🗃️ Passo 3: Crie o Banco de Dados do Matomo
 
-> [!code]- Clique para Expandir + Copiar
-> ```bash
-> # 3.1 Acesse o MySQL
-> sudo mysql -u root -p  # Use a senha definida no passo anterior
-> ```
+```bash
+# 3.1 Acesse o MySQL
+sudo mysql -u root -p  # Use a senha definida no passo anterior
+```
 
-> [!code]- Clique para Expandir + Copiar
-> ```sql
-> # 3.2 Execute no Prompt do MySQL
-> CREATE DATABASE matomo_db;
-> CREATE USER 'matomo_user'@'localhost' IDENTIFIED BY 'ColoqueUmaSenhaForteAqui';
-> GRANT ALL PRIVILEGES ON matomo_db.* TO 'matomo_user'@'localhost';
-> FLUSH PRIVILEGES;
-> EXIT;
-> ```
+```sql
+# 3.2 Execute no Prompt do MySQL
+CREATE DATABASE matomo_db;
+CREATE USER 'matomo_user'@'localhost' IDENTIFIED BY 'ColoqueUmaSenhaForteAqui';
+GRANT ALL PRIVILEGES ON matomo_db.* TO 'matomo_user'@'localhost';
+FLUSH PRIVILEGES;
+EXIT;
+```
 
 ## 📥 Passo 4: Instale o Matomo
 
-> [!code]- Clique para Expandir + Copiar
-> ```bash
-> # 4.1 Baixe e Extraia o Matomo
-> cd /var/www/html
+```bash
+# 4.1 Baixe e Extraia o Matomo
+cd /var/www/html
 sudo wget https://builds.matomo.org/matomo.zip
 sudo unzip matomo.zip
 sudo rm matomo.zip
 sudo mv matomo analytics
-> ```
+```
 
-
-> [!code]- Clique para Expandir + Copiar
-> ```bash
-> # 4.2 Configure Permissões
-> sudo chown -R www-data:www-data /var/www/html/analytics
+```bash
+# 4.2 Configure Permissões
+sudo chown -R www-data:www-data /var/www/html/analytics
 sudo chmod -R 755 /var/www/html/analytics
-> ```
+```
 
 
 ## 🔒 Passo 5: SSL com Let's Encrypt
 
-> [!code]- Clique para Expandir + Copiar
-> ```bash
-> # 5.1 Instale o Certbot
->sudo apt install -y certbot python3-certbot-apache
-> ```
+```bash
+# 5.1 Instale o Certbot
+sudo apt install -y certbot python3-certbot-apache
+```
 
-> [!code]- Clique para Expandir + Copiar
-> ```bash
-> # 5.2 Obtenha o Certificado
->sudo certbot --apache
-> ```
+```bash
+# 5.2 Obtenha o Certificado
+sudo certbot --apache
+```
 
 ## 🔧 Passo 6: Configure o Apache
 
-> [!code]- Clique para Expandir + Copiar
-> ```bash
-> # 6.1 Crie um Arquivo de Configuração
->sudo nano /etc/apache2/sites-available/matomo.conf
-> ```
+```bash
+# 6.1 Crie um Arquivo de Configuração
+sudo nano /etc/apache2/sites-available/matomo.conf
+```
 
-> [!code]- Clique para Expandir + Copiar
-> ```apache
-> # 6.2 Cole o Conteúdo (Substitua seusite.com):
-> 
-><VirtualHost *:80>
->ServerName seusite.com
->DocumentRoot /var/www/html/analytics
-><Directory /var/www/html/analytics>
->Options -Indexes +FollowSymLinks
->AllowOverride All
->DirectoryIndex index.php
->Require all granted
-></Directory>
-  >  ErrorLog ${APACHE_LOG_DIR}/matomo_error.log
-  >  CustomLog ${APACHE_LOG_DIR}/matomo_access.log combined
-></VirtualHost>
->```
+```apache
+# 6.2 Cole o Conteúdo (Substitua seusite.com):
 
-> [!code]- Clique para Expandir + Copiar
-> ```bash
-> # 6.3 Ative o Site e Reinicie o Apache
->sudo a2dissite 000-default.conf
+<VirtualHost *:80>
+ServerName seusite.com
+DocumentRoot /var/www/html/analytics
+<Directory /var/www/html/analytics>
+Options -Indexes +FollowSymLinks
+AllowOverride All
+DirectoryIndex index.php
+Require all granted
+</Directory>
+ErrorLog ${APACHE_LOG_DIR}/matomo_error.log
+CustomLog ${APACHE_LOG_DIR}/matomo_access.log combined
+</VirtualHost>
+```
+
+```bash
+# 6.3 Ative o Site e Reinicie o Apache
+sudo a2dissite 000-default.conf
 sudo a2ensite matomo.conf
 sudo a2enmod rewrite
 sudo systemctl restart apache2
-> ```
+```
 
 ## 🚀 Passo 7: Instalação Web do Matomo
 
@@ -172,43 +160,40 @@ sudo systemctl restart apache2
         
 3. Após instalar, remova a pasta `tmp`:
 
-> [!code]- Clique para Expandir + Copiar
-> ```bash
+```bash
 sudo rm -rf /var/www/html/analytics/tmp/*
-> ```
+```
 
 ## ⚙️ Passo 8: Otimizações e Configurações
 
-> [!code]- Clique para Expandir + Copiar
-> ```bash
-> # 8.1 Configure o Cron para Relatórios Automáticos
->sudo crontab -u www-data -e
-> ```
+```bash
+# 8.1 Configure o Cron para Relatórios Automáticos
+sudo crontab -u www-data -e
+```
 
-> [!code]- Clique para Expandir + Copiar
-> ```cron
-> # 8.2 Adicione o cron
->*/30 * * * * /usr/bin/php /var/www/html/analytics/console core:archive --url=http://seusite.com > /dev/null 2>&1
-> ```
+
+```cron
+# 8.2 Adicione o cron
+
+*/30 * * * * /usr/bin/php /var/www/html/analytics/console core:archive --url=http://seusite.com > /dev/null 2>&1
+```
 
 ### 8.3 Desative o Acionamento por Navegador
 
 - No Matomo: **Administração → Sistema → Configurações Gerais** → Desmarque _"Ativar arquivamento via navegador"_.
 ### 8.4 Force SSL (HTTPS)
 
-> [!code]- Clique para Expandir + Copiar
-> ```bash
-> # 8.4 Force SSL (HTTPS)
->sudo nano /var/www/html/analytics/config/config.ini.php
-> ```
+```bash
+# 8.4 Force SSL (HTTPS)
+sudo nano /var/www/html/analytics/config/config.ini.php
+```
 
 Adicione:
 
-> [!code]- Clique para Expandir + Copiar
-> ```ini
+```ini
 [General]
 force_ssl = 1
-> ```
+```
 
 ## 🎉 Parabéns! Você Concluiu a Instalação do Matomo Agora!
 
