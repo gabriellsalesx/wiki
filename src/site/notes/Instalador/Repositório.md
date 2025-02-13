@@ -16,7 +16,7 @@
 
 | CÓDIGO   | DESCRIÇÃO                                       | LINK                  | CATEGORIA    |
 | -------- | ----------------------------------------------- | --------------------- | ------------ |
-| `MTA-01` | **Instalação do Matomo:** Analytics Self-Hosted | [[Instalador/MTA-01\|🔓Acessar]] | 📈 Analytics |
+| `MATOMO` | **Instalação do Matomo:** Analytics Self-Hosted | [[Instalador/Matomo\|🔓Acessar]] | 📈 Analytics |
 
 ---
 ## 🔥 **POR QUE ISSO É ILEGALMENTE EFICAZ?**  
