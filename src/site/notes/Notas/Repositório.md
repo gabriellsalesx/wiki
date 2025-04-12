@@ -23,7 +23,7 @@
 | `FVE-04`  | **Funil de Vendas Eficaz:** Converta Leads em Clientes Fieis                                    | [[Notas/01 - 10/FVE-04\|🔓Acessar]]  | 🌶️🌶️          |
 | `EINT-80` | **Erros Intencionais no Texto:** Aumentar o engajamento e posicionar seu perfil                 | [[Notas/01 - 10/EINT-80\|🔓Acessar]] | 🌶️             |
 | `TS-H01`  | **Táticas Secretas:** Maximizar resultados com esforço mínimo                                   | [[Notas/01 - 10/TS-H01\|🔓Acessar]]  | 🌶️🌶️🌶️🌶️    |
-| `DAP-555` | **ChatGPT:** Prompt Engineering no                                                              | [[Notas/DAP-555\|🔓Acessar]] | 🌶️🌶️          |
+| `DAP-555` | **ChatGPT:** Prompt Engineering no                                                              | [[Notas/01 - 10/DAP-555\|🔓Acessar]] | 🌶️🌶️          |
 | `TP-0001` | **Automações:** Poderosas SEM Pagar Nada                                                        | [[Notas/01 - 10/TP-0001\|🔓Acessar]] | 🌶️🌶️🌶️🌶️🌶️ |
 | `TPC-777` | **PNL:** Truques Psicológicos                                                                   | [[Notas/01 - 10/TPC-777\|🔓Acessar]] | 🌶️             |
 
